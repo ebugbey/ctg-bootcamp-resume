@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  font-family: "Arial Narrow";
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+  margin: 0.5rem;
+}
+
+body {
+  max-width: 60rem;
+  margin: 0 auto;
+  background-color: snow;
+  padding: 1rem;
+}
+
+header {
+  background-color: rgba(112, 128, 144, 0.2);
+  padding: 2rem;
+  padding-top: 1rem;
+}
+
+#contact-and-profile {
+  background-color: slategray;
+  padding: 1rem;
+  float: left;
+  color: rgb(233, 237, 242);
+}
+
+#contact-info {
+  float: left;
+  width: 30%;
+}
+
+p,
+#contact-info {
+  margin: 0rem;
+}
+
+main {
+  background-color: rgba(112, 128, 144, 0.1);
+  margin-top: 2rem;
+  padding: 1rem;
+  padding-top: 6rem;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 22px;
+}
+
+h4,
+h5 {
+  margin: 0.5rem;
+}
+
+ul {
+  margin-top: 0.2rem;
+  font-size: 12px;
+}
+
+p {
+  font-size: 14px;
+}
